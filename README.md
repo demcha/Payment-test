@@ -1,5 +1,5 @@
-# Payment-test
-## Bug report for payment page
+# Payment-test.
+## Bug report for payment page.
 ### UI bugs:
    
 | Number of bug | Location | Description | Screenshot |
