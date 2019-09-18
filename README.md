@@ -27,3 +27,6 @@
 | 5 | Payment details window | Payment details window have no "close" or "exit" button if user change mind, only "esc" button on keyboard. |[![noexit.jpg](https://i.postimg.cc/SxjCk5fz/noexit.jpg)](https://postimg.cc/YvKhxdVp)|
 | 6 | Payment details window | When user open payment details window for "Bronze", "Silver" and "Gold" accounts, user can click to any place on the left from the window, this function close it. But if he click to the right of it, window don’t close. |[![noexitclick.jpg](https://i.postimg.cc/59XkPxrZ/noexitclick.jpg)](https://postimg.cc/s1RcxRsc) |
 | 7 | Payment details window |When user input card number, input field permit to input any symbols, user can make mistakes more often as if field can perceive to input only numbers. |[![any.jpg](https://i.postimg.cc/3NDh72xG/any.jpg)](https://postimg.cc/jnKm4wNq) |
+
+
+## Interface and functional of page have a lot of mistakes, so i cannot recomended realese that part of product.
